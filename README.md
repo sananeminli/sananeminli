@@ -1,5 +1,4 @@
 
 
 
-
-![aws-certified-cloud-practitioner (6)](https://user-images.githubusercontent.com/57816597/220472503-087d8030-2dba-48ad-8d81-49317d4df016.png)
+<img src = "https://user-images.githubusercontent.com/57816597/220474151-e2557972-2bd7-4b59-be6a-c304877369ff.png" width="200" height="200" />
