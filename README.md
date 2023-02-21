@@ -1,6 +1,5 @@
 
-![aws-certified-cloud-practitioner](https://user-images.githubusercontent.com/57816597/220471979-8c028dba-bcf5-4810-ab07-607d8b16b26a.png)
 
 
 
-
+![aws-certified-cloud-practitioner (6)](https://user-images.githubusercontent.com/57816597/220472503-087d8030-2dba-48ad-8d81-49317d4df016.png)
